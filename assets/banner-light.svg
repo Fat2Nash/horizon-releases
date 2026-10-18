@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
 <title id="title">Horizon Security — One console for your whole fleet</title>
-<desc id="desc">Self-hosted security management for Linux servers: one central console drives fail2ban, nftables and nginx across the fleet.</desc>
+<desc id="desc">Self-hosted security management for Linux servers: one console drives fail2ban, nftables and nginx across the fleet.</desc>
+<rect width="1280" height="360" fill="#ffffff"/>
 <g font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
-<rect width="1280" height="360" fill="#ffffff"/><g transform="translate(52 74) scale(0.5)"><path d="m128 30 85 49v98l-85 49-85-49V79Z" fill="none" stroke="#087c70" stroke-width="13" stroke-linejoin="round"/><path d="M90 120a38 38 0 0 1 76 0Z" fill="#e8a33a"/><path d="M64 128h128" stroke="#087c70" stroke-width="12" stroke-linecap="round"/><path d="M128 136 91 172M128 136v36M128 136l37 36" stroke="#087c70" stroke-opacity="0.55" stroke-width="7" stroke-linecap="round"/><g fill="#087c70"><circle cx="88" cy="178" r="11"/><circle cx="128" cy="178" r="11"/><circle cx="168" cy="178" r="11"/></g></g><text x="202" y="91" fill="#087c70" font-size="13" letter-spacing="4.5">SECURITY</text><g transform="translate(196 112) scale(1.12)" fill="#132c34" aria-hidden="true"><path d="M0 0H12V30H46V0H58V76H46V42H12V76H0Z"/>
+  <g transform="translate(64 92) scale(0.66)"><path d="m128 30 85 49v98l-85 49-85-49V79Z" fill="none" stroke="#0f766e" stroke-width="13" stroke-linejoin="round"/><path d="M90 120a38 38 0 0 1 76 0Z" fill="#e8a33a"/><path d="M64 128h128" stroke="#0f766e" stroke-width="12" stroke-linecap="round"/><path d="M128 136 91 172M128 136v36M128 136l37 36" stroke="#0f766e" stroke-opacity="0.55" stroke-width="7" stroke-linecap="round"/><g fill="#0f766e"><circle cx="88" cy="178" r="11"/><circle cx="128" cy="178" r="11"/><circle cx="168" cy="178" r="11"/></g></g>
+  <g transform="translate(250 112) scale(1.18)" fill="#10242c"><path d="M0 0H12V30H46V0H58V76H46V42H12V76H0Z"/>
 <path fill-rule="evenodd" d="M97 20C79 20 69 31 69 49S79 78 97 78 125 67 125 49 115 20 97 20ZM97 31C108 31 113 38 113 49S108 67 97 67 81 60 81 49 86 31 97 31Z"/>
 <path d="M137 22H148V31C153 23 160 20 170 21V33C156 31 149 38 149 51V76H137Z"/>
 <path d="M182 22H194V76H182Z"/><rect x="181" y="1" width="14" height="13" rx="3"/>
 <path d="M207 22H253V31L221 65H254V76H205V67L237 33H207Z"/>
 <path fill-rule="evenodd" d="M291 20C273 20 263 31 263 49S273 78 291 78 319 67 319 49 309 20 291 20ZM291 31C302 31 307 38 307 49S302 67 291 67 275 60 275 49 280 31 291 31Z"/>
-<path d="M331 22H342V29C347 23 353 20 361 20 376 20 384 30 384 46V76H372V47C372 36 368 31 360 31 350 31 343 38 343 49V76H331Z"/></g><text x="64" y="241" fill="#132c34" font-size="27">One console for your whole fleet.</text><path d="M64 280H1216" stroke="#cfdddf"/><text x="64" y="316" fill="#506670" font-size="15">fail2ban</text><text x="133" y="316" fill="#087c70" font-size="15">·</text><text x="151" y="316" fill="#506670" font-size="15">nftables</text><text x="218" y="316" fill="#087c70" font-size="15">·</text><text x="236" y="316" fill="#506670" font-size="15">nginx</text><text x="997" y="316" fill="#506670" font-size="11" letter-spacing="1.5">LINUX · SELF-HOSTED</text><g transform="translate(165 7) scale(.86)">
-<g fill="none" stroke="#edf3f3"><circle cx="960" cy="166" r="100"/><path d="M960 28A138 138 0 0 0 960 304"/></g>
-<g fill="none" stroke="#cfdddf" stroke-width="1.5"><path d="M1000 166H1054Q1070 166 1070 150V83Q1070 69 1084 69H1136"/><path d="M1000 166H1136"/><path d="M1000 166H1054Q1070 166 1070 182V249Q1070 263 1084 263H1136"/></g>
-<path d="M1000 166H1040" stroke="#087c70" stroke-width="2"/>
-<rect x="920" y="126" width="80" height="80" rx="20" fill="#f3f8f7" stroke="#087c70"/>
-<g transform="translate(932 138) scale(0.21875)"><path d="m128 30 85 49v98l-85 49-85-49V79Z" fill="none" stroke="#087c70" stroke-width="13" stroke-linejoin="round"/><path d="M90 120a38 38 0 0 1 76 0Z" fill="#e8a33a"/><path d="M64 128h128" stroke="#087c70" stroke-width="12" stroke-linecap="round"/><path d="M128 136 91 172M128 136v36M128 136l37 36" stroke="#087c70" stroke-opacity="0.55" stroke-width="7" stroke-linecap="round"/><g fill="#087c70"><circle cx="88" cy="178" r="11"/><circle cx="128" cy="178" r="11"/><circle cx="168" cy="178" r="11"/></g></g><rect x="1136" y="47" width="72" height="44" rx="10" fill="#ffffff" stroke="#cfdddf"/>
-<circle cx="1152" cy="69" r="3" fill="#087c70"/>
-<path d="M1165 65H1192M1165 73H1184" stroke="#506670" stroke-width="2" stroke-linecap="round"/><rect x="1136" y="144" width="72" height="44" rx="10" fill="#ffffff" stroke="#cfdddf"/>
-<circle cx="1152" cy="166" r="3" fill="#087c70"/>
-<path d="M1165 162H1192M1165 170H1184" stroke="#506670" stroke-width="2" stroke-linecap="round"/><rect x="1136" y="241" width="72" height="44" rx="10" fill="#ffffff" stroke="#cfdddf"/>
-<circle cx="1152" cy="263" r="3" fill="#087c70"/>
-<path d="M1165 259H1192M1165 267H1184" stroke="#506670" stroke-width="2" stroke-linecap="round"/>
-</g>
+<path d="M331 22H342V29C347 23 353 20 361 20 376 20 384 30 384 46V76H372V47C372 36 368 31 360 31 350 31 343 38 343 49V76H331Z"/></g>
+  <text x="252" y="242" fill="#4a6470" font-size="20" letter-spacing="7" font-weight="600">SECURITY</text>
+  <text x="66" y="300" fill="#10242c" font-size="30" font-weight="500">One console for your whole fleet.</text>
+  <text x="66" y="334" fill="#8aa0a9" font-size="18">fail2ban · nftables · nginx — self-hosted, signed releases</text>
+  <g opacity="1">
+    <circle cx="960" cy="180" r="122" fill="none" stroke="#d9e3e7" stroke-width="1.5"/>
+    <circle cx="960" cy="180" r="84" fill="none" stroke="#d9e3e7" stroke-width="1.5"/>
+    <path d="M1012 180 C1060 180 1060 96 1104 96" fill="none" stroke="#c9d8dd" stroke-width="2"/><rect x="1104" y="70" width="132" height="52" rx="12" fill="#f6fafb" stroke="#c9d8dd" stroke-width="1.5"/><circle cx="1126" cy="96" r="5" fill="#0f766e"/><text x="1142" y="102" fill="#10242c" font-size="17" font-weight="600">web-01</text><path d="M1012 180 C1060 180 1060 180 1104 180" fill="none" stroke="#c9d8dd" stroke-width="2"/><rect x="1104" y="154" width="132" height="52" rx="12" fill="#f6fafb" stroke="#c9d8dd" stroke-width="1.5"/><circle cx="1126" cy="180" r="5" fill="#0f766e"/><text x="1142" y="186" fill="#10242c" font-size="17" font-weight="600">mail-01</text><path d="M1012 180 C1060 180 1060 264 1104 264" fill="none" stroke="#c9d8dd" stroke-width="2"/><rect x="1104" y="238" width="132" height="52" rx="12" fill="#f6fafb" stroke="#c9d8dd" stroke-width="1.5"/><circle cx="1126" cy="264" r="5" fill="#0f766e"/><text x="1142" y="270" fill="#10242c" font-size="17" font-weight="600">db-01</text>
+    <rect x="908" y="128" width="104" height="104" rx="26" fill="#f2f8f8" stroke="#0f766e" stroke-width="2"/>
+    <g transform="translate(922 142) scale(0.297)"><path d="m128 30 85 49v98l-85 49-85-49V79Z" fill="none" stroke="#0f766e" stroke-width="13" stroke-linejoin="round"/><path d="M90 120a38 38 0 0 1 76 0Z" fill="#e8a33a"/><path d="M64 128h128" stroke="#0f766e" stroke-width="12" stroke-linecap="round"/><path d="M128 136 91 172M128 136v36M128 136l37 36" stroke="#0f766e" stroke-opacity="0.55" stroke-width="7" stroke-linecap="round"/><g fill="#0f766e"><circle cx="88" cy="178" r="11"/><circle cx="128" cy="178" r="11"/><circle cx="168" cy="178" r="11"/></g></g>
+  </g>
 </g>
 </svg>
