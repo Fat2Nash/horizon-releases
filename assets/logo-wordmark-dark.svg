@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="544" height="152" viewBox="0 0 544 152" role="img" aria-labelledby="title desc">
+<title id="title">Horizon Security</title>
+<desc id="desc">Horizon Security wordmark for dark backgrounds.</desc>
+<g font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+<g transform="translate(0 8) scale(0.4375)"><path d="m128 30 85 49v98l-85 49-85-49V79Z" fill="none" stroke="#6fe0cb" stroke-width="13" stroke-linejoin="round"/><path d="M90 120a38 38 0 0 1 76 0Z" fill="#f5b84b"/><path d="M64 128h128" stroke="#6fe0cb" stroke-width="12" stroke-linecap="round"/><path d="M128 136 91 172M128 136v36M128 136l37 36" stroke="#6fe0cb" stroke-opacity="0.55" stroke-width="7" stroke-linecap="round"/><g fill="#6fe0cb"><circle cx="88" cy="178" r="11"/><circle cx="128" cy="178" r="11"/><circle cx="168" cy="178" r="11"/></g></g><g transform="translate(140 29) scale(1)" fill="#f0f6f8" aria-hidden="true"><path d="M0 0H12V30H46V0H58V76H46V42H12V76H0Z"/>
+<path fill-rule="evenodd" d="M97 20C79 20 69 31 69 49S79 78 97 78 125 67 125 49 115 20 97 20ZM97 31C108 31 113 38 113 49S108 67 97 67 81 60 81 49 86 31 97 31Z"/>
+<path d="M137 22H148V31C153 23 160 20 170 21V33C156 31 149 38 149 51V76H137Z"/>
+<path d="M182 22H194V76H182Z"/><rect x="181" y="1" width="14" height="13" rx="3"/>
+<path d="M207 22H253V31L221 65H254V76H205V67L237 33H207Z"/>
+<path fill-rule="evenodd" d="M291 20C273 20 263 31 263 49S273 78 291 78 319 67 319 49 309 20 291 20ZM291 31C302 31 307 38 307 49S302 67 291 67 275 60 275 49 280 31 291 31Z"/>
+<path d="M331 22H342V29C347 23 353 20 361 20 376 20 384 30 384 46V76H372V47C372 36 368 31 360 31 350 31 343 38 343 49V76H331Z"/></g><text x="142" y="132" fill="#9aafb9" font-size="13" letter-spacing="4">SECURITY</text>
+</g>
+</svg>
