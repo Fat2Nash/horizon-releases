@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fat2Nash/horizon-releases/releases"><img alt="Release" src="https://img.shields.io/github/v/release/Fat2Nash/horizon-releases?include_prereleases&style=flat-square&label=release&color=0f766e"></a>
+  <a href="https://github.com/Fat2Nash/horizon-releases/releases"><img alt="Release" src="https://img.shields.io/github/v/release/Fat2Nash/horizon-releases?include_prereleases&filter=v*&style=flat-square&label=release&color=0f766e"></a>
   <a href="#requirements"><img alt="Platforms" src="https://img.shields.io/badge/linux-amd64%20%7C%20arm64-0f766e?style=flat-square"></a>
   <a href="#verifying-a-release"><img alt="Signed" src="https://img.shields.io/badge/releases-signed-16a34a?style=flat-square"></a>
   <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-64748b?style=flat-square"></a>
@@ -34,7 +34,7 @@ This repository contains **published releases only**: signed binaries, the insta
 
 > [!NOTE]
 > Horizon is in **beta**. It runs in production, but the interface and the API may still change between beta
-> releases. Start in [observation mode](https://fat2nash.github.io/horizon-security/en/docs/guides/observation):
+> releases. Until the first stable release, the install command below installs the latest beta. Start in [observation mode](https://fat2nash.github.io/horizon-security/en/docs/guides/observation):
 > Horizon analyses and decides, but applies nothing until you are ready.
 
 ## Features
@@ -149,6 +149,9 @@ An archive whose signature does not match this key is not a Horizon release. Do 
 | `SHA256SUMS` + `.minisig` | checksums of every file |
 | `*.sbom.json` | software bill of materials |
 
+The rolling **`beta`** release always holds the `install.sh` and `channel-beta.json` of the latest beta: it is the
+fixed address the installer and `horizon update` read for the beta channel.
+
 </details>
 
 ## Updating
@@ -156,6 +159,10 @@ An archive whose signature does not match this key is not a Horizon release. Do 
 The master watches its release channel through a signed manifest. Updates run from **Administration › System** or with
 `sudo horizon update apply`: a backup is taken first, health is checked afterwards, and the previous version is
 restored automatically on failure. Agents are updated from the master in waves.
+
+A beta follows the beta channel, which also includes stable releases. Masters installed with 0.1.0-beta.1 or
+0.1.0-beta.2 follow the stable channel: switch them to beta once (**Administration › System › Updates**, or
+`sudo horizon update apply --channel beta`), or run the install command again.
 
 ## Documentation
 
